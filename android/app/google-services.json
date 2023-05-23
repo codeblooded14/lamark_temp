@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "161929574535",
+    "project_id": "lamarktempmonitor",
+    "storage_bucket": "lamarktempmonitor.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:161929574535:android:347c759f4d1a54dae86022",
+        "android_client_info": {
+          "package_name": "com.example.lamark_temp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "161929574535-pm70ke3qgfu242ib2lb10ej1gp56ovnk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBi9B8k8KAKyS1LrtmHAT-4jnXdmHWBXsE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "161929574535-pm70ke3qgfu242ib2lb10ej1gp56ovnk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
